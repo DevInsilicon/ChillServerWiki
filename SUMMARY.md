@@ -1,17 +1,12 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome  to the Wiki!](README.md)
 
-## Getting Started
+## Adding Content
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Content Rules](adding-content/content-rules.md)
+* [Adding Content 101](adding-content/adding-content-101.md)
 
-## Basics
+## Lore
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [LoreLoreLoreLore](lore/lorelorelorelore.md)
